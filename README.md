@@ -1,6 +1,6 @@
 # Robot_distance_sensor_with_bluetooth
-The aim of this task is to design and program an electrical circuit for a robot that receives client feedback via speech. 
-When an user stands in front of the sensor for 3 seconds, a Bluetooth signal is sent to play a video clip and the arm moves.
+- The aim of this task is to design and program an electrical circuit for a robot to sense when an user stands in front of the sensor for 3 seconds, then sends a Bluetooth signal to play a video clip and moves the arm.
+
 ## Circuit components:
 - Two Arduino Uno R3
 - One Breadboard
